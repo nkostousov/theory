@@ -1,4 +1,4 @@
-TESTING THEORY
+# TESTING THEORY
 
 This section contains the theoretical foundation of software testing, demonstrated through the example of an online store project.  
 It includes the classification of testing methods, levels, and types, as well as a detailed analysis of system requirements for the store’s key modules.
